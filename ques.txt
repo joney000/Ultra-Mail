@@ -1,0 +1,6 @@
+ques
+ The Session class provides access to the protocol providers that implement the Store, Transport, and related classes. The protocol providers are configured using the following files:
+
+    javamail.providers and javamail.default.providers
+    javamail.address.map and javamail.default.address.map
+

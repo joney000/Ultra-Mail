@@ -1,0 +1,23 @@
+***************************************    Ultra Mail    *******************************************
+Test the Project :
+		1. if you have already entries in Email-queue table in database.
+			****if there is no entry : put the entries in table by Run the Test Packages\InsertRecords.java file.
+				make sure the SMTP.gmail account entries are valid.
+		2.) just run the ThreadPoolGenerator.java or Run the Complete the project at NetBeans(F6)
+		3.) check the send is_flag [if Program runs Successfully flag = true[mail has been sent]]
+		
+		***	To run the project from the command line, go to the dist folder and
+			type the following:
+
+			java -jar "Ultra_Mail.jar" 
+
+/*
+ * Released by  : Jaswant Singh [joney_000]
+ * Lang   		: Java
+ * Concept 		: Multi threading and Synchronization.
+ * Release Date : 29/march/2015
+ * Email 		: jaswantsinghyadav007@gmail.com
+ *
+ */
+ 
+ 
